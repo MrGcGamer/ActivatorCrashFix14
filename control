@@ -1,0 +1,9 @@
+Package: com.mrgcgamer.activatorcrashfix14
+Name: ActivatorCrashFix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fixes a crash on iOS 14 when using Activator!
+Maintainer: MrGcGamer
+Author: MrGcGamer
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
